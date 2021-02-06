@@ -1,3 +1,13 @@
+'''
+## Author
++ Name: Jahid Hasan
++ 𝐏𝐡𝐨𝐧𝐞:   (+880) 1772905097 (Whatsapp)
++ 𝘔𝘢𝘪𝘭:     jahidnoyon36@gmail.com
++ LinkedIn: http://linkedin.com/in/hellojahid
+
+'''
+
+
 import torch
 from torch.autograd import Variable
 
@@ -22,7 +32,7 @@ class LRM(torch.nn.Module):
 # instance of LR class
 model = LRM()
 
-# loss function
+# loss function and optimizer
 get_loss = torch.nn.MSELoss(size_average=False)
 optimizer = torch.optim.SGD(model.parameters(), lr=0.001)
 
