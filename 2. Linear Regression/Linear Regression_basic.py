@@ -4,7 +4,6 @@
 + 𝐏𝐡𝐨𝐧𝐞:   (+880) 1772905097 (Whatsapp)
 + 𝘔𝘢𝘪𝘭:     jahidnoyon36@gmail.com
 + LinkedIn: http://linkedin.com/in/hellojahid
-
 '''
 
 
