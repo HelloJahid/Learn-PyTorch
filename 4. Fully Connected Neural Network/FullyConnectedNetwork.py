@@ -115,8 +115,8 @@ z1=0.25
 z2=0.25
 p1=torch.Tensor([z1,z2])
 plt.plot(p1.numpy()[0],p1.numpy()[1],marker='o',markersize=5,color='black')
-print("Red point positive probability={}".format(model.forward(p1).item()))
-print("Red point in calss={}".format(model.predict(p1)))
+print("Black point positive probability={}".format(model.forward(p1).item()))
+print("Black point in calss={}".format(model.predict(p1)))
 plot_decision_boundary(x,y)
 scatter_plot()
 plt.show()
