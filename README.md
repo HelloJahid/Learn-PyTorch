@@ -13,3 +13,12 @@ PyTorch is a small part of a computer software which is based on Torch library. 
 - It provides Deep Neural Network which is built on a tape-based auto diff system.
 
 PyTorch was developed to provide high flexibility and speed during implementing and building the Deep Learning Neural Network. As you already know, it is a machine learning library for Python programming language, so it's quite simple to install, run, and understand. Pytorch is completely pythonic (using widely adopted python idioms rather than writing Java and C++ code) so that it can quickly build a Neural Network Model successfully.
+
+
+
+
+## Author
++ Name: Jahid Hasan
++ 𝐏𝐡𝐨𝐧𝐞:   (+880) 1772905097 (Whatsapp)
++ 𝘔𝘢𝘪𝘭:     jahidnoyon36@gmail.com
++ LinkedIn: http://linkedin.com/in/hellojahid
